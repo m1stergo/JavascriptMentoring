@@ -1,0 +1,25 @@
+pre {
+  background: #242424;
+  color: #fff;
+}
+
+.is-featured {
+  padding: 10px;
+  border-left: 3px solid orange;
+  background-color: #fafafa;
+}
+.is-highlighted {
+  color: red;
+}
+
+.columns {
+  display: flex;
+}
+
+.play-pre {
+  padding: 1.25em 1.5em;
+}
+
+.play-pre.is-spaced p {
+  margin-bottom: 18px!important;
+}

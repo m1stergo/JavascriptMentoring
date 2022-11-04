@@ -26,7 +26,7 @@ Implementacion de buenas practicas de desarrollo front-end.
 - Variables (let, const, nuevo scope)
 
 ### 03. Primeros pasos en vue
-Mediante una aplicacion dinámica, darás tus primeros pasos en vue.
+Mediante una aplicacion dinámica, https://etow.github.io/JavascriptMentoring/#/ darás tus primeros pasos en vue.
 - Instalacion de vue CLI
 - Expresiones 
 - Directivas
